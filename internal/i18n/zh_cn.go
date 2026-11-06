@@ -2,6 +2,9 @@ package i18n
 
 // zhCN is the app's text in Simplified Chinese, by its English.
 var zhCN = map[string]string{
+	"Current value":                "当前值",
+	"Save changes":                 "保存修改",
+	"Discard changes":              "放弃修改",
 	"%.1f GB used":                 "已用 %.1f GB",
 	"%d MB used":                   "已用 %d MB",
 	"%d albums":                    "%d 张专辑",
